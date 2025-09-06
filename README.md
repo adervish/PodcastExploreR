@@ -2,6 +2,8 @@
 
 A Python command-line tool for searching and extracting podcasts from Apple's Podcasts app database on macOS.
 
+![Example Screenshot](example.png)
+
 ## Features
 
 - Search downloaded podcast episodes by title
